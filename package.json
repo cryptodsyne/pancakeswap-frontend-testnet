@@ -1,5 +1,5 @@
 {
-  "name": "pancake-frontend",
+  "name": "@cryptodsyne/pancake-frontend",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -34,8 +34,8 @@
   "dependencies": {
     "@binance-chain/bsc-connector": "^1.0.0",
     "@ethersproject/experimental": "^5.0.1",
-    "@pancakeswap/sdk": "^2.3.2",
-    "@pancakeswap/uikit": "^0.49.1",
+    "@cryptodsyne/sdk": "^2.3.2",
+    "@cryptodsyne/uikit": "^0.49.1",
     "@reduxjs/toolkit": "^1.5.0",
     "@types/multicodec": "^1.0.0",
     "@types/node": "^13.13.5",

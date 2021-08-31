@@ -1,8 +1,8 @@
 {
-  "short_name": "PancakeSwap",
+  "short_name": "PancakeSwap - Testnet",
   "name": "PancakeSwap",
   "description": "Farm CAKE with Pancake LP Tokens",
-  "homepage_url": "https://pancakeswap.finance",
+  "homepage_url": "https://pancake.cryptodsyne.com",
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#1FC7D4",
